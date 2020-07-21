@@ -1,0 +1,4 @@
+
+string firstFriend = "Madhu";
+string secondFriend = "Praveena";
+Console.WriteLine($"My friends are {firstFriend} and {secondFriend}");
